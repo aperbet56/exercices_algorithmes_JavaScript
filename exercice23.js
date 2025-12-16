@@ -35,3 +35,7 @@ confirmEnding("Alexandre", "e"); // true
 confirmEnding("Emile", "ie"); // false
 
 // La méthode split() divise une chaîne de caractères en une liste ordonnée de sous-chaînes, place ces sous-chaînes dans un tableau et retourne le tableau. La division est effectuée en recherchant un motif ; où le motif est fourni comme premier paramètre dans l'appel de la méthode.
+
+// La méthode join() des instances de Array crée et retourne une nouvelle chaîne de caractères en concaténant tous les éléments de ce tableau, séparés par des virgules ou par une chaîne de séparation définie. Si le tableau ne contient qu'un seul élément, cet élément est retourné sans utiliser le séparateur.
+
+// La méthode reverse() des instances Array inverse un tableau en place et retourne la référence vers ce même tableau, le premier élément du tableau devenant le dernier, et le dernier élément devenant le premier. En d'autres termes, l'ordre des éléments du tableau est inversé par rapport à l'ordre initial.
