@@ -45,3 +45,5 @@
 - Exercice 21 : Avec le moins de lignes de code possible, proposez un algorithme qui, pour un nombre donné, affiche la table de multiplication liée. Par exemple : si je demande 1, je veux voir : 1x1 = 1 1x2 = 2 etc Et ce jusqu'à 12
 
 - Exercice 22 : Créer une fonction qui prend en argument une chaîne de caractères (LONGUE). Cette fonction doit afficher les 15 premiers caractères puis '...' Par exemple : Je passe la chaîne : 'Lorem quisque class vestibulum' La fonction doit afficher 'Lorem quisque c...'
+
+- Exercice 23 : Confirmer la fin d'un mot, d'un nom
