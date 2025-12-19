@@ -51,3 +51,5 @@
 - Exercice 24 : Créer d'une fonction increasePrice qui prendre en paramètres un prix initial et un pourcentage d'augmentation(price, percentage). Cette fonction doit calculer l'augmentation en multipliant le prix par le pourcentage divisé par 100 ( prix X (pourcentage / 100)). Elle doit ajouter ensuite l'augmentation au prix initial prix + augmentation pour obtenir le prix final.
 
 - Exercice 25 : Créer une fonction qui utilise une condition combinée && pour vérifier la longueur password.length d'au moins >= 9 et contenir le caractère "@" avec password.includes.
+
+- Exercice 26 : Calculer la moyenne d'un tableau
