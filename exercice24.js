@@ -11,4 +11,4 @@ const price = 430;
 const percentageIncrease = 4.9;
 const priceWithIncrease = increasePrice(price, percentageIncrease);
 
-console.log(priceWithIncrease.toFixed(2));
+console.log(priceWithIncrease.toFixed(2)); // 451.07
