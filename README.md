@@ -47,3 +47,5 @@
 - Exercice 22 : Créer une fonction qui prend en argument une chaîne de caractères (LONGUE). Cette fonction doit afficher les 15 premiers caractères puis '...' Par exemple : Je passe la chaîne : 'Lorem quisque class vestibulum' La fonction doit afficher 'Lorem quisque c...'
 
 - Exercice 23 : Confirmer la fin d'un mot, d'un nom
+
+- Exercice 24 : Créer d'une fonction addPrice qui prendre en paramètres un prix initial et un pourcentage d'augmentation(price, percentage). Cette fonction doit calculer l'augmentation en multipliant le prix par le pourcentage divisé par 100 ( prix X (pourcentage / 100)). Elle doit ajouter ensuite l'augmentation au prix initial prix + augmentation pour obtenir le prix final.
